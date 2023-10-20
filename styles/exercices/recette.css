@@ -1,1 +1,19 @@
 
+h1{
+    color : grey;
+    font-family: garamond;
+    background-color:blanchedalmond;
+}
+
+section #def_gateau {
+    font-style: italic;
+}
+
+h2{
+    font-family: garamond;
+}
+
+h3{
+    color:lightsteelblue;
+    font-style: italic;
+}
